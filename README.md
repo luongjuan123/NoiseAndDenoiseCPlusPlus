@@ -1,4 +1,4 @@
-##  Features
+## Features
 
 ### 1. Noise Generation (Add Noise)
 
@@ -27,7 +27,7 @@ Restore images using various filtering techniques:
 
 ---
 
-##  Technologies Used
+## 🛠️ Technologies Used
 
 * **Language:** C++ (Standard C++17)
 * **GUI Framework:** Qt 5 (Widgets)
@@ -36,7 +36,7 @@ Restore images using various filtering techniques:
 
 ---
 
-##  Installation & Build Instructions
+## ⚙️ Installation & Build Instructions
 
 ### Prerequisites (Linux/Ubuntu/Debian)
 
@@ -76,7 +76,7 @@ After a successful build, an executable file will be created in the build folder
 ./ImageProcessingApp
 ```
 
-###  How to Use
+### 📖 How to Use
 
 1. **Open Image:** Click the "Open Image" button and select a file (.jpg, .png, .bmp).
 
@@ -94,17 +94,21 @@ After a successful build, an executable file will be created in the build folder
 
 4. **Save:** Click "Save Result" to export the restored image to your computer.
 
-###  Project Structure
+### Project Structure
 
 * `main.cpp`: Entry point of the application.
 * `imageprocessing.h`: Header file defining the MainWindow class and member variables.
 * `imageprocessing.cpp`: Contains the core logic, UI setup, OpenCV algorithm implementations, and event handling.
 * `CMakeLists.txt`: Configuration file for the CMake build system.
 
-###  Contributing
+### Contributing
 
 Feel free to submit issues or pull requests if you want to improve the algorithms or add new features (like frequency domain filtering).
 
-###  License
+### License
 
 This project is open-source and available for educational purposes.
+
+### Reference
+
+[Image Processing Project 2](https://github.com/EpsOnlineEducation/Image_Processing_Project_2)
