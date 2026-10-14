@@ -27,7 +27,7 @@ Restore images using various filtering techniques:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Language:** C++ (Standard C++17)
 * **GUI Framework:** Qt 5 (Widgets)
@@ -36,7 +36,7 @@ Restore images using various filtering techniques:
 
 ---
 
-## ⚙️ Installation & Build Instructions
+## Installation & Build Instructions
 
 ### Prerequisites (Linux/Ubuntu/Debian)
 
@@ -76,7 +76,7 @@ After a successful build, an executable file will be created in the build folder
 ./ImageProcessingApp
 ```
 
-### 📖 How to Use
+### How to Use
 
 1. **Open Image:** Click the "Open Image" button and select a file (.jpg, .png, .bmp).
 
